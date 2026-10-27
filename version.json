@@ -1,9 +1,9 @@
 {
-  "run_id": "20261026_174112_555549",
-  "generated_at": "2026-10-26T17:46:12-05:00",
+  "run_id": "20261027_090627_248304",
+  "generated_at": "2026-10-27T09:12:07-05:00",
   "index": "index.html",
-  "size": 41247155,
-  "sha256": "8865c814e83808124010ad1a6edca4834ad92afebe2e163b50237857831c870b",
+  "size": 41258615,
+  "sha256": "bdae9b3a0cb2bdc24929c9d621f0f366ee9713966be5a87ba2f82cbad0ecf848",
   "regression": {
     "status": "PASS",
     "passed": 13,
