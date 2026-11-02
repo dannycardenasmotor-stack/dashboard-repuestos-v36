@@ -1,9 +1,8 @@
 {
   "run_id": "20261029_141437_V39_LOCAL",
-  "generated_at": "2026-11-02T07:30:27-05:00",
+  "generated_at": "2026-11-02T13:12:16-05:00",
+  "sha256": "ec22d3b79667d29d89d51b00f7606d1763a2c773b67ff776d89e55b126744113",
+  "size": 38320445,
   "index": "index.html",
-  "size": 43490769,
-  "sha256": "c148edb0db0b6aa0e924bbd9208485b7eed8b22e400a7911ad56ec8c139417c2",
-  "validation_status": "V39_LOCAL_VALIDATION_PASS",
-  "validation_report": "CIERRE_V39_FINAL.json"
+  "validation_status": "V39_METAS_LOCAL_VALIDATION_PASS"
 }
