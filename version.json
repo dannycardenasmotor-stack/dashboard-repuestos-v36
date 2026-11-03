@@ -1,8 +1,8 @@
 {
-  "run_id": "20261029_141437_V39_LOCAL",
-  "generated_at": "2026-11-02T13:12:16-05:00",
-  "sha256": "ec22d3b79667d29d89d51b00f7606d1763a2c773b67ff776d89e55b126744113",
-  "size": 38320445,
+  "run_id": "20261102_155607_988228",
+  "generated_at": "2026-11-02T16:11:20-05:00",
+  "sha256": "b74c8f9df0be3bd8121ee9d8e1e7b00833b1d0ca8a213b35c165bc4e559e74e4",
+  "size": 42439365,
   "index": "index.html",
   "validation_status": "V39_METAS_LOCAL_VALIDATION_PASS"
 }
